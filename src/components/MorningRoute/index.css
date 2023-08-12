@@ -1,0 +1,33 @@
+.morningContainer {
+  height: 69vh;
+  width: 100vw;
+  background-image: url('https://res.cloudinary.com/dsnbihsqy/image/upload/v1691492781/wepik-export-20230808110559MDH1_cg2urr.jpg');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d9d9d9;
+  padding: 10px;
+  min-height: 69vh;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.listContainer {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  justify-content: center;
+  overflow-y: auto;
+  overflow-x: none;
+}
+
+@media screen and (max-width: 575px) {
+  .morningContainer {
+    background-image: url('https://res.cloudinary.com/dsnbihsqy/image/upload/v1691492781/wepik-export-20230808110559MDH1_cg2urr.jpg');
+    background-color: #d9d9d9;
+  }
+}

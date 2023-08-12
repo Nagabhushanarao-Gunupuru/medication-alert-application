@@ -1,0 +1,43 @@
+.medicineContainer {
+  height: 69vh;
+  width: 100vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d9d9d9;
+  padding: 10px;
+  min-height: 69vh;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto';
+}
+
+.medicineHeading {
+  font-size: 50px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.usage {
+  color: #187a26;
+  font-size: 20px;
+  font-weight: bold;
+}
+.time {
+  color: #d30505;
+}
+
+.button {
+  height: 35px;
+  width: 70px;
+  border: none;
+  outline: none;
+  border-radius: 12px;
+  background-color: #05d3b7;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
