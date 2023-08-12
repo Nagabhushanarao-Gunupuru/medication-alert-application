@@ -36,6 +36,12 @@
      Industry Ready Practices :
         - Most of the developers in the real world uses the concept called react hooks. With the help of react hooks we call the state in the functional component intself without using the class componnents. 
           In the project I use the both react hooks concept with functional component and also I use class components based on the requirement.
+          
+     Resorces :
+        - For creating dummy data and apiUrl I use ---> https://mockapi.io/projects
+        - For third-party packages I use "node package manager"
+        
+        
 
 
 ### Screenshots
