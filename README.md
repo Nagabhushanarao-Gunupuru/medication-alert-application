@@ -40,6 +40,10 @@
 
 ### Screenshots
 
+when the medication time matches with current time then it gives a alert message
+
+<img src="https://github.com/Nagabhushanarao-Gunupuru/medication-alert-application/assets/131828774/6ec49c31-05a8-4317-925d-b474f56cbace"/>
+
 when you click on the info logo which is on the top left of the application       
 
 <img src="https://github.com/Nagabhushanarao-Gunupuru/medication-alert-application/assets/131828774/83ab41a8-42b4-4236-9e36-0c1b6c5c553c" />
