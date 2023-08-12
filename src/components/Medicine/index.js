@@ -1,6 +1,7 @@
 import {Component} from 'react'
 
 import MedicineItem from '../MedicineItem'
+import Alert from '../Alert'
 import './index.css'
 
 class Medicine extends Component {
@@ -32,6 +33,7 @@ class Medicine extends Component {
             <MedicineItem key={each.id} medicineDetails={each} />
           ))}
         </ul>
+          <Alert medicationList={medicationList}/>
       </div>
     )
   }
